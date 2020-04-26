@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "48.0",
     "packageAliases": {
-        "reference2GUPWithNamespacePackageA": "0Ho1T000000PAsSSAW"
+        "reference2GUPWithNamespacePackageA": "0Ho1T000000PAsSSAW",
+        "reference2GUPWithNamespacePackageA@0.1.0-1": "04t1T000000RcjGQAS"
     }
 }
