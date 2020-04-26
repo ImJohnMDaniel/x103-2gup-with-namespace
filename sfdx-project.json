@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "path": "sfdx-source",
+            "default": true,
+            "package": "reference2GUPWithNamespacePackageA",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "x103",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "reference2GUPWithNamespacePackageA": "0Ho1T000000PAsSSAW"
+    }
+}
